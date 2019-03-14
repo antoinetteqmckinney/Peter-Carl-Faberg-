@@ -1,0 +1,36 @@
+#main
+{
+  text-align: center;
+}
+
+#tribute-info
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+#img-div
+{
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#details
+{
+  margin-top: 10px;
+  margin: auto;
+  max-width: 550px;
+  background-color:#ADD8E6;
+  padding: 10px;
+}
+#details li
+{
+  text-align: left;
+}
